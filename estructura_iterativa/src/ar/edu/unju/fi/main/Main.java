@@ -34,6 +34,7 @@ public class Main {
 		String codigoMateria = scanner.next();
 		materia.setCodigo(codigoMateria);
 		
+		
 		System.out.println("Ingrese el codigo del registro de nota: ");
 		String codigoRegistro = scanner.next();
 		registro.setCodigo(codigoRegistro);
